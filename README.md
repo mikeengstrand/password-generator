@@ -7,4 +7,4 @@ adapts to multiple screen sizes.
 Upon clicking the Generate Password button, the user is propmted to select a number between 8 and 128 for the password length. If an invalid option an alert is displayed and the password length prompt reappears. Once a valid selection is made, the user will be prompted to select the character types. Once complete, a password will be generated using the information the user supplied.
 
 Below is a screenshot fo the website showing an character length and type.
-![Alt text](Develop/readmepic.png)
+![Alt text](readmepic.png)
